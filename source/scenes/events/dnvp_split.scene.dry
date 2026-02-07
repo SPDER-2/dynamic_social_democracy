@@ -26,7 +26,7 @@ The <span style="color: #385A38;">agrarian</span>, industrialist, <span style="c
 - @goodnews: We'll watch as the enemies of the republic tear themselves apart.
 
 @goodnews
-on-arrival: dnf_formed = 1; dnf_decay_timer += 12
+on-arrival: dnf_formed = 1; dnf_decay_timer += 12; pro_republic += 3
 go-to: dnf_formed
 
 The right has been considerably weakened, now is our chance to enact meaningful change without their disruption.
